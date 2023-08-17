@@ -1,5 +1,5 @@
-<h1 align="center">Namaste 🙏 I'm Viraj!</h1>
-<h3>I'm a Software Solutions Engineer 👨‍💻 with cross-functional skills passionate about architecting and delivering scalable and maintainable software solutions that are resilient and secure.</h3>
+# Namaste 🙏 I'm Viraj
+<h4>I'm a Software Solutions Engineer 👨‍💻 with cross-functional skills, passionate about architecting and delivering scalable and maintainable software solutions that are resilient and secure.</h4>
 
 ## 👨‍💻 About Me
 <h4>

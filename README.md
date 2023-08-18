@@ -93,8 +93,12 @@
 </table>
 
 ## 📧 Let's get in touch!
-<a href="https://www.linkedin.com/in/virajkulkarni14/" target="_blank" rel="noopener noreferrer"><img alt="Connect with me on LinkedIn!" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/virajkulkarni14/" target="_blank" rel="noopener noreferrer"><img alt="Connect with me on LinkedIn!" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" loading="lazy"/></a>
 &nbsp;
 <a href="mailto:mail@virajkulkarni.me">
-  <img alt="Email me!" src="https://icon-library.com/images/email-svg-icon/email-svg-icon-27.jpg" width="42" height="42"/>
+  <img alt="Email me!" src="https://icon-library.com/images/email-svg-icon/email-svg-icon-27.jpg" width="42" height="42" loading="lazy"/>
+</a>
+&nbsp;
+<a href="https://virajkulkarni.me/" target="_blank" rel="noopener noreferrer">
+  <img alt="Visit my site!" src="https://icon-library.com/images/website-icon-flat/website-icon-flat-22.jpg" width="42" height="42" loading="lazy"/>
 </a>

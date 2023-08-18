@@ -1,5 +1,5 @@
 # Namaste 🙏 I'm Viraj
-<h4>I'm a Software Solutions Engineer 👨‍💻 with cross-functional skills, passionate about architecting and delivering scalable and maintainable software solutions that are resilient and secure.</h4>
+<h4>I'm a Software Solutions Engineer with cross-functional skills, passionate about architecting and delivering scalable, cross-platform and maintainable software solutions that are responsive, accessible, resilient and secure.</h4>
 
 ## 👨‍💻 About Me
 <h4>

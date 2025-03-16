@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 <h4>
-  👉 8+ years of Enterprise Software Engineering experience, including at Startups
+  👉 10+ years of Enterprise Software Engineering experience, including at Startups
   <br>
   👉 MS (Software Engineering) + MBA (Marketing Management)
   <br>
